@@ -34,8 +34,19 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 * [Elemental-UI](http://elemental-ui.com/) UI component lib
 * [React Toolbox](http://react-toolbox.com/) UI component lib
 * [Belle](http://nikgraf.github.io/belle/) UI component lib
+* [Matieral UI](http://www.material-ui.com) Google Material Design UI component lib
+
+## Animation & Motion
+
+* [react-motion](https://github.com/chenglou/react-motion) React Motion
+* [react-motion-up-pack](https://github.com/souporserious/react-motion-ui-pack) Reation Motion Wrappers
 * [velocity-react](https://github.com/twitter-fabric/velocity-react) Animations
 * [react-dnd](http://gaearon.github.io/react-dnd/) Drag n Drop for React
+
+## Mobile
+
+* [react-tap-event-plugin](https://github.com/zilverline/react-tap-event-plugin) Tap event plugin
+* [react-tabbable](https://github.com/JedWatson/react-tappable) React Tappable
 
 ## Testing
 
